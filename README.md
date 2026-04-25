@@ -1,5 +1,5 @@
 # Netflix-Data-Analysis-Python-
-This project focuses on analyzing the Netflix dataset using Python. The main objective was to understand content distribution, trends over time, and popular genres. The project demonstrates practical skills in data analysis, data visualization, and extracting meaningful insights from real-world datasets.
+“Analyzed Netflix dataset using Python (Pandas, Matplotlib, Seaborn) to identify content trends and patterns. Performed data cleaning, visualization, and extracted key insights such as genre popularity and content growth over time.”
 # Netflix Data Analysis 📊
 
 ## 📌 Project Overview
